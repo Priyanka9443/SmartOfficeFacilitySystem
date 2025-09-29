@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Exercise1 Design Patterns**
 
 ## BEHAVIOURAL DESIGN PATTERN
@@ -337,7 +338,3 @@ AC turned ON for Room 1
     Gmail: sumathipriyanka2001@gmail.com
     Github:Priyanka9443
 
-=======
-# SmartOfficeFacilitySystem
-This project is about Smart Office Facility 
->>>>>>> 34e0f16d730526c9198d554460f7835da5fde296
