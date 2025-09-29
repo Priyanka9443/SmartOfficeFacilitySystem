@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 **Exercise1 Design Patterns**
 
 ## BEHAVIOURAL DESIGN PATTERN
