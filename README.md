@@ -324,7 +324,7 @@ AC turned ON for Room 1
 ### 🛠️ Tech Stack
 
 * **Programming Language:** Java – Object-Oriented principles for design pattern implementation.
-* **JDK Version:** 17 – Stable and feature-rich environment.
+* **JDK Version:** 11 – Stable and feature-rich environment.
 * **Build and Execution:**
 
   * `javac` – Java compiler to compile source files.
